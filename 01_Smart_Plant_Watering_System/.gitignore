@@ -1,0 +1,8 @@
+*.o
+*.out
+*.exe
+*.bin
+spws_sim
+spws_sim.exe
+.vscode/
+.DS_Store
