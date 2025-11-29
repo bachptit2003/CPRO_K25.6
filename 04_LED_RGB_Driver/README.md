@@ -279,7 +279,7 @@ MIT License - Free for educational and commercial use
 
 ## Author
 
-**Bach Pham**  
+**Bach Nguyen**  
 Student ID: K25.6  
 Course: Computer Programming (CPRO)
 
