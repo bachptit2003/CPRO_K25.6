@@ -16,7 +16,9 @@ Hệ thống mô phỏng hoàn chỉnh một máy tưới cây tự động vớ
 - Kiến trúc Clean Code + HAL →  port sang STM32, ESP32, Arduino để chạy thật.
 
 ## Cấu trúc thư mục
-```text
+```textcd
+cd
+
 01_Smart_Plant_Watering_System/
 ├── inc/                  → tất cả file header (.h)
 ├── src/                  → tất cả file nguồn (.c)
